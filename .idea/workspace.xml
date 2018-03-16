@@ -2,8 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbde82ca-9181-4f64-bb47-8308231ac10d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestNgMavenExampleSuite/TestNgMavenTest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestNgMavenExampleSuite/TestNgMavenTest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestNgMavenExampleSuite/testng-failed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/reportng.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/reportng.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/sorttable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suites.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tapzo.testing.Demo.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/TestNgMavenTest.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/classes.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/groups.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/main.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/methods-alphabetical.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/methods-not-run.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/methods.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/reporter-output.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/testng.xml.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNgMavenExampleSuite/toc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/xml/com.tapzo.testing.Demo_results.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tapzo/testing/Demo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/velocity.log" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -267,12 +327,20 @@
       <option name="presentableId" value="Default" />
       <updated>1521119574664</updated>
       <workItem from="1521119581328" duration="6928000" />
-      <workItem from="1521205039358" duration="880000" />
+      <workItem from="1521205039358" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="- commit">
+      <created>1521206097511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521206097511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7808000" />
+    <option name="totallyTimeSpent" value="7868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -338,6 +406,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="- commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,7 +516,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
