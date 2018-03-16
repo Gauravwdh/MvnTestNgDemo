@@ -4,6 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <!--Project basic details name & jdk version-->
   <groupId>com.tapzo.testing</groupId>
   <artifactId>MvnTestNgDemo</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -12,7 +13,7 @@
   </properties>
 
   <dependencies>
-
+    <!-- TestNg: testing framework-->
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
@@ -21,6 +22,7 @@
     </dependency>
 
     <dependency>
+      <!--ReportNg: Report generation tool-->
       <groupId>org.uncommons</groupId>
       <artifactId>reportng</artifactId>
       <version>1.1.2</version>
@@ -33,6 +35,7 @@
       </exclusions>
     </dependency>
 
+    <!--Guice: Need for report ng-->
     <dependency>
       <groupId>com.google.inject</groupId>
       <artifactId>guice</artifactId>
@@ -44,6 +47,7 @@
   </dependencies>
 
 
+  <!--Commands that will run when u run mvn clean install, build or test-->
   <build>
     <plugins>
       <plugin>
@@ -55,6 +59,7 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
 
+          <!--Callback so that report ng can build a report.-->
           <properties>
             <property>
               <name>listener</name>
@@ -64,7 +69,6 @@
             </property>
           </properties>
           <workingDirectory>target/</workingDirectory>
-
 
         </configuration>
       </plugin>

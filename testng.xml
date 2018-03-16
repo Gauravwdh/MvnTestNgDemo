@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--Test Suite that is needed to run -->
 <suite name="TestNgMavenExampleSuite" parallel="false">
   <test name="TestNgMavenTest">
     <!--can define params here-->
